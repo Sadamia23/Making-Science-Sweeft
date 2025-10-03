@@ -1,4 +1,4 @@
-namespace SweeftAssignment.Tasks;
+namespace SweeftAssignment.Tasks_1_5;
 
 public static class Tasks
 {
